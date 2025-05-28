@@ -1,7 +1,7 @@
-change db path in env file
-open terminal
-navigate to backend
-run npm start
-open another terminal
-navigate to frontend
+change db path in env file </br>
+open terminal </br>
+navigate to backend </br>
+run npm start </br>
+open another terminal </br>
+navigate to frontend </br>
 run npm start
