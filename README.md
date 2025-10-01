@@ -1,7 +1,9 @@
-change db path in env file </br>
-open terminal </br>
-navigate to backend </br>
-run npm start </br>
-open another terminal </br>
-navigate to frontend </br>
-run npm start
+<img width="989" height="1259" alt="image" src="https://github.com/user-attachments/assets/2ff9f4c9-475b-4f6c-bc39-96cd3aac11fc" />
+<img width="989" height="437" alt="image" src="https://github.com/user-attachments/assets/a677b070-cfbb-432b-80b1-d806475cac1c" />
+<img width="989" height="375" alt="image" src="https://github.com/user-attachments/assets/e544a099-406c-4838-be09-0e7268aa015c" />
+<img width="989" height="430" alt="image" src="https://github.com/user-attachments/assets/71550473-e1e8-4166-bc46-a203a74c3f4a" />
+<img width="989" height="440" alt="image" src="https://github.com/user-attachments/assets/af2ea773-1c19-4f5e-832a-b5ed401f5916" />
+<img width="989" height="387" alt="image" src="https://github.com/user-attachments/assets/14bc6f6d-20c2-40ab-aa1b-27c8441b9cfd" />
+<img width="989" height="434" alt="image" src="https://github.com/user-attachments/assets/214de65a-603e-46a8-82e5-c3145fd0d386" />
+<img width="975" height="452" alt="image" src="https://github.com/user-attachments/assets/8fd5cc87-ba08-4556-a110-bba580b21c11" />
+<img width="989" height="436" alt="image" src="https://github.com/user-attachments/assets/9f1d5063-2d37-4609-8a94-160f81b694ba" />
